@@ -49,7 +49,7 @@ Using atlas-based ROI signals extracted from fMRI scans, connectivity matrices w
 
 ### ROI Functional Connectivity Matrix
 
-![Connectivity Heatmap](figures/connectivity_heatmap.png)
+![Connectivity Heatmap](figures/Heatmap.png)
 
 ---
 
