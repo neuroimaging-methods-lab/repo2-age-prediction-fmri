@@ -50,3 +50,17 @@ Using atlas-based ROI signals extracted from fMRI scans, connectivity matrices w
 ### ROI Functional Connectivity Matrix
 
 ![Connectivity Heatmap](figures/connectivity_heatmap.png)
+
+---
+
+## Results
+
+The pipeline successfully:
+
+* Downloaded and processed multi-subject resting-state fMRI data
+* Extracted ROI time series from atlas-defined cortical regions
+* Generated subject-level functional connectivity matrices
+* Built a predictive modelling framework for age estimation
+* Demonstrated an end-to-end reproducible neuroimaging workflow
+
+Model performance metrics can be updated as additional experiments are completed.
